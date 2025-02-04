@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "OEM_preferred_parts")(type "KiCad")(uri "/home/thomas/Documents/research_yale/OEM_Preferred_Parts/schematic/formula.kicad_sym")(options "")(descr ""))
+)
